@@ -1,1 +1,2 @@
 # YOLOV3_DetectionInterface_pyqt5
+YOLOV3.py就是界面文件，里面的选择导入训练函数和检测函数的语句已经注销，如果要导入自己的模型，可以在同级目录下创建文件夹导入
